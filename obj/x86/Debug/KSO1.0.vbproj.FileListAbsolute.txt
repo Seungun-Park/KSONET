@@ -1,0 +1,6 @@
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.exe
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.xml
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.pdb
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.exe
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.xml
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.pdb

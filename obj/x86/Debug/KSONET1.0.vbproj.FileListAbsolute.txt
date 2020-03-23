@@ -1,0 +1,48 @@
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\bin\Debug\GH Browser.exe
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\bin\Debug\GH Browser.pdb
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\bin\Debug\GH Browser.xml
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH_Browser.frmBrowser.resources
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH_Browser.Resources.resources
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH Browser.exe
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH Browser.xml
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH Browser.pdb
+C:\Documents and Settings\Administrator\바탕 화면\GH 브라우저\GH Browser\obj\x86\Debug\GH_Browser.Form2.resources
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.exe
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.xml
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH Browser.pdb
+C:\Users\er\Desktop\GH Browser\bin\Debug\GH Browser.exe
+C:\Users\er\Desktop\GH Browser\bin\Debug\GH Browser.pdb
+C:\Users\er\Desktop\GH Browser\bin\Debug\GH Browser.xml
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH_Browser.frmBrowser.resources
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH_Browser.Form2.resources
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GH_Browser.Resources.resources
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\er\Desktop\GH Browser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\er\Desktop\KSONET 1.0\bin\Debug\GH Browser.exe
+C:\Users\er\Desktop\KSONET 1.0\bin\Debug\GH Browser.pdb
+C:\Users\er\Desktop\KSONET 1.0\bin\Debug\GH Browser.xml
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH_Browser.frmBrowser.resources
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH_Browser.Form2.resources
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH_Browser.Resources.resources
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.exe
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.xml
+C:\Users\er\Desktop\KSONET 1.0\obj\x86\Debug\GH Browser.pdb
+C:\Users\er\Desktop\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.exe
+C:\Users\er\Desktop\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.xml
+C:\Users\er\Desktop\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.pdb
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\KSONET1.0.vbprojAssemblyReference.cache
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH_Browser.frmBrowser.resources
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH_Browser.Form2.resources
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH_Browser.Resources.resources
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\KSONET1.0.vbproj.GenerateResource.cache
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\KSONET1.0.vbproj.CoreCompileInputs.cache
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.exe
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.xml
+F:\박승운백업\1바탕화면\ㅋ\KSONET 1.0(백업)\obj\x86\Debug\GH Browser.pdb
